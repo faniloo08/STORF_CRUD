@@ -1,4 +1,4 @@
-#STORF Patient Management System
+# STORF Patient Management System
 React.js
 Axios
 MariaDB
@@ -6,11 +6,11 @@ SQL
 A lightweight web application designed to manage patient records and appointment schedules for the hospital's Traumatology, Orthopedics, and Functional Rehabilitation Service (STORF).
 
 
-#Project Overview
+# Project Overview
 STORF Patient Management System is a personal project developed to assist the secretarial team of the Service de Traumatologie, d&aposOrthopédie et de Rééducation Fonctionnelle (STORF) in a hospital environment. The application streamlines patient record management and helps avoid manual entry errors, improving the overall efficiency of daily administrative tasks.
 
 
-#Key Features
+# Key Features
 - CRUD Operations:
 Allows creation, modification, viewing, and deletion of patient records, particularly focusing on correct hospital file numbers.
 - Extended Information Storage:
@@ -19,7 +19,7 @@ Includes fields for address, medical diagnosis, contact phone numbers, and next 
 Designed with real-world usability in mind, favoring functionality over aesthetic complexity.
 
 
-#Technical Approach
+# Technical Approach
 
 - Frontend Development: Built using React.js, providing a responsive and simple user interface.
 - API Communication: Axios library is used for making efficient API calls to the database.
